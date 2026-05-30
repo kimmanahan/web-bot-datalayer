@@ -1,4 +1,4 @@
-# Bot DataLayer
+# Web Bot DataLayer
 
 A standalone browser script that pushes only bot signals into your data layer.
 
