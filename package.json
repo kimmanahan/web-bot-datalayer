@@ -1,0 +1,7 @@
+{
+  "name": "open-bot-datalayer",
+  "version": "2.0.0",
+  "description": "Standalone bot-only dataLayer signal for any website.",
+  "license": "MIT",
+  "main": "src/bot-datalayer.js"
+}
